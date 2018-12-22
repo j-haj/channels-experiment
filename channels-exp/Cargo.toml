@@ -1,0 +1,11 @@
+[package]
+name = "channels-exp"
+version = "0.1.0"
+authors = ["Jeff Hajewski <jeff.hajewski@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+ndarray = "0.12.1"
+crossbeam = "0.6.0"
+rand = "0.6.1"
+rayon = "1.0.3"
